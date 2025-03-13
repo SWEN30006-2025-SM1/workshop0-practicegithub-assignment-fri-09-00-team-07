@@ -21,5 +21,4 @@ public class Calculator {
         return a/b;
     }
 
-    //Testing commit 2
 }
